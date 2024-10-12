@@ -1,2 +1,4 @@
 # Računalniški praktikum
-Rešite <a href="https://ucilnica.fmf.uni-lj.si/mod/feedback/view.php?id=32277">anketo o predznanju računalništva</a> na učilnici.
+Ctrl + shift + k = izbriši vrstico
+Ctrl + n = ustvari nov file
+Alt + klik = več vrstic hkrati
