@@ -38,9 +38,16 @@ h2 {
     width: 40%;
     text-align: left;
 }
+.slika p:last-child {
+    font-size: 0.8em;
+}
+a::before {
+    content: "-|-";
+}
 .slika img {
     width: 100%;
     height: auto;
+    border-radius: 50%;
 }
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
