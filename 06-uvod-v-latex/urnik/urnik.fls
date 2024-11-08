@@ -1,0 +1,180 @@
+PWD c:\Users\lk40606\Rp\racunalniski-praktikum\06-uvod-v-latex\urnik
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\lk40606\Rp\racunalniski-praktikum\06-uvod-v-latex\urnik\urnik.tex
+OUTPUT urnik.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\babel-slovenian\slovene.ldf
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-slovene.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\sl\babel-sl.ini
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ltxmisc\concrete.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ltxmisc\concrete.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\beton\beton.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\beton\beton.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\euler\euler.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\euler\euler.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\t1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\t1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\t1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm10.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\urnik.aux
+INPUT .\urnik.aux
+INPUT urnik.aux
+OUTPUT urnik.aux
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm10.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm10.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm8.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm6.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueur.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueur.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueur.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuf.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueus.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueus.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueus.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuex.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuex.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\ueuex.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm9.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx0900.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+OUTPUT urnik.pdf
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\tex\latex\base\t1cmtt.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\ts1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\ts1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\tex\latex\ccfonts\ts1ccr.fd
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\torm10.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eoti10.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm7.tfm
+INPUT C:\Users\lk40606\AppData\Roaming\MiKTeX\fonts\tfm\public\ecc\eorm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eurm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eufm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\eusm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\euler\euex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT urnik.aux
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eoti10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eoti10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\torm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\torm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1000.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eorm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eorm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eorm9.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi600\eorm9.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi720\eorm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi720\eorm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi1037\eorm10.pk
+INPUT C:\Users\lk40606\AppData\Local\MiKTeX\fonts\pk\ljfour\public\ecc\dpi1037\eorm10.pk
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eufm7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eurm10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\euler\eurm7.pfb
