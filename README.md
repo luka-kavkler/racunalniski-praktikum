@@ -32,6 +32,8 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 - [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 - [ ] Imenik z repozitorijem stisnite v arhiv, ga preimenujte v nekaj oblike `ImePriimek.zip` in ga oddajte na učilnico.
 
+## Link do spletne strani 
+<a href=https://luka-kavkler.github.io/>https://luka-kavkler.github.io/<a/>
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
